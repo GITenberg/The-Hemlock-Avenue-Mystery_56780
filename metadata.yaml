@@ -6,12 +6,17 @@ contributor:
     alias: Grünwald, Ch. (Charles)
     gutenberg_agent_id: '36252'
     url: http://www.gutenberg.org/2009/agents/36252
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doubleday, Roman
     gutenberg_agent_id: '49035'
     url: http://www.gutenberg.org/2009/agents/49035
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56780#The-Hemlock-Avenue-Mystery
 gutenberg_issued: '2018-03-18'
 gutenberg_type: Text
 identifiers:
